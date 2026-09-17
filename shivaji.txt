@@ -1,8 +1,5 @@
 "the great shivaji" 
-<<<<<<< HEAD
 The changes on 1)
 the changes on 1)
 the changes on 2)
 the changes on 2)
-=======
->>>>>>> parent of a2dcac5 (add by vgv 17-09-11;43)
